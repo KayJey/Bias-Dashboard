@@ -1,7 +1,7 @@
 https://www.similarweb.com/ - 
-India_Times
-Times_of_india
-CNN_News18
+IndiaTimes
+TimesOfIndia
+CNNNews18
 Yahoo
 NDTV
 https://blog.feedspot.com/indian_news_websites/
