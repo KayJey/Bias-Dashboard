@@ -1,6 +1,6 @@
 https://www.similarweb.com/ - 
 IndiaTimes
-TimesOfIndia
+TimesOfindia
 CNNNews18
 Yahoo
 NDTV
@@ -24,7 +24,7 @@ IndiaNews
 TheHindu
 https://www.imnepal.com/top-news-websites-india/
 NDTV
-TheIndian_Express
+TheIndianExpress
 GoogleNews
 Zeenews
 AajTak
@@ -40,3 +40,30 @@ NDTV
 IndiaToday
 TheIndianExpress
 TheHindu
+https://www.allyoucanread.com/india-newspapers/
+IndiaTimes
+Rediff
+TheIndianExpress
+TheHindu
+DailyThanthi
+HindusthanTimes
+News18
+Vikatan
+Firstpost
+Timesofindia
+https://androidaio.com/top-100-indian-news-websites-to-follow-in-2021/
+Timesofindia
+NDTV
+IndiaToday
+TheIndianExpress
+TheHindu
+News18
+Oneindia
+TheFinancialExpress
+BusinessLine
+https://traffictail.com/top-200-news-portal-in-india/
+Timesofindia
+NDTVNews
+News18
+OutlookIndia
+Businessstandard
