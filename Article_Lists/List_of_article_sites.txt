@@ -2,7 +2,7 @@
 IndiaTimes
 TimesOfIndia
 CNN
-Yahoo
+YahooNews
 NDTV
 *https://blog.feedspot.com/indian_news_websites/
 TimesOfIndia
@@ -12,7 +12,7 @@ TheIndianExpress
 TheHindu
 *ReutersSurvey
 TimesOfIndia
-BBCnews
+BBC
 TheIndianExpress
 HindusthanTimes
 TheHindu
@@ -70,9 +70,9 @@ Businessstandard
 *http://www.ebizmba.com/articles/news-websites
 CNN
 NewYorkTimes
-FoxNews
-NBCNews
-BBCNews
+Fox
+NBC
+BBC
 GoogleNews
 YahooNews
 *https://www.sinceindependence.com/videos/top-100-indian-news-websites-on-the-web
@@ -101,7 +101,7 @@ CNN
 TheIndianExpress
 IndiaToday
 HindustanTimes
-RediffNews
+Rediff
 *https://www.world-newspapers.com/countries/asia/india
 IndiaToday
 TheIndianExpress
@@ -115,9 +115,9 @@ GoogleNews
 HuffingtonPost
 CNN
 NewYorkTimes
-FoxNews
-NBCNews
-BBCNews
+Fox
+NBC
+BBC
 
 
 
